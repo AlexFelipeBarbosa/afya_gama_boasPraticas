@@ -10,7 +10,7 @@ let HomeSectionTwo = `
 <section class="section background--two" style="background-image: url(${backgroundTwo})"> 
 <div class="block-section--two"> 
   <img src="${elemento2}" alt="Elemento2" width="300px" heigth="auto">
-  <div> 
+  <div "text-block--two"> 
     <p>
      ${TextContent}
     </p>
