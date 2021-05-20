@@ -1,5 +1,5 @@
-import backgroundTwo from "../../../assets/images/background/bg2.jpeg";
-import cavaco2 from "../../../assets/images/elements/elemento2.jpg";
+import backgroundTwo from "../../../assets/images/background/bg2.jpg";
+import elemento2 from "../../../assets/images/elements/elemento2.jpg";
 import footer from "../footer";
 
 let TextContent = `
@@ -8,8 +8,8 @@ let TextContent = `
 
 let HomeSectionTwo = `
 <section class="section background--two" style="background-image: url(${backgroundTwo})"> 
-<div> 
-  <img src="${cavaco2}" alt="Cavaco2" width="300px" heigth="auto">
+<div class="block-section--two"> 
+  <img src="${elemento2}" alt="Elemento2" width="300px" heigth="auto">
   <div> 
     <p>
      ${TextContent}

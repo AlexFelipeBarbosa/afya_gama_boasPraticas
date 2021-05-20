@@ -13,8 +13,18 @@ body {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5,
+p,
+b,
+span {
   font-family: "Roboto", sans-serif;
+}
+
+.main-left {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
 }
 
 .section {
@@ -23,6 +33,9 @@ h4 {
 }
 
 .background--one {
+  background-size: contain;
+}
+.background--two {
   background-size: contain;
 }
 

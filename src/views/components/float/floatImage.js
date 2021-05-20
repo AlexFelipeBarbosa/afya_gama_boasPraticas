@@ -1,8 +1,8 @@
-import Cavaco from "../../../assets/images/elements/elemento3.jpg";
+import Elemento3 from "../../../assets/images/elements/elemento3.jpg";
 
 let floatImage = `
 <div class="main-left">
-  <img src="${Cavaco}" alt="Cavaco" width="120px" heigth="auto"
+  <img src="${Elemento3}" alt="Elemento3" width="120px" heigth="auto"
 
 <div>
 
